@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haoxin Luo
 ==================================================================================================================================
 
-Data Scientist
+Data Scientist | Python SQL | Help businesses make data-driven decisions and build AI-Powered data products
 --------------
 
 I graduated from Wake Forest with double major in statistics and computer science. I then achieved a MS degree in statistics from University of Washington, I am now a phD candidate in industrial engineer and operational research.
